@@ -1,0 +1,694 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-07-10">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="place name" type="string" />
+      <attribute id="1" title="Categoria query" type="string" />
+      <attribute id="2" title="review" type="int" />
+    </attributes>
+    <nodes>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="0" value="Enjoy Chiloé. Hotel De La Isla" />
+          <attvalue for="1" value="casino" />
+          <attvalue for="2" value="2459" />
+        </attvalues>
+      </node>
+      <node id="115" label="115">
+        <attvalues>
+          <attvalue for="0" value="La Cevichería Chiloé" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="780" />
+        </attvalues>
+      </node>
+      <node id="172" label="172">
+        <attvalues>
+          <attvalue for="0" value="Petrohué Waterfalls" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="19896" />
+        </attvalues>
+      </node>
+      <node id="362" label="362">
+        <attvalues>
+          <attvalue for="0" value="Muelle de Frutillar" />
+          <attvalue for="1" value="island" />
+          <attvalue for="2" value="12020" />
+        </attvalues>
+      </node>
+      <node id="27" label="27">
+        <attvalues>
+          <attvalue for="0" value="Museo de Artes Visuales Surazo" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="79" />
+        </attvalues>
+      </node>
+      <node id="802" label="802">
+        <attvalues>
+          <attvalue for="0" value="Plaza de Armas de Osorno" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="7787" />
+        </attvalues>
+      </node>
+      <node id="32" label="32">
+        <attvalues>
+          <attvalue for="0" value="Lago Chapo" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="559" />
+        </attvalues>
+      </node>
+      <node id="48" label="48">
+        <attvalues>
+          <attvalue for="0" value="Lago Llanquihue" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="4848" />
+        </attvalues>
+      </node>
+      <node id="490" label="490">
+        <attvalues>
+          <attvalue for="0" value="Alerce Andino National Park" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="2486" />
+        </attvalues>
+      </node>
+      <node id="44" label="44">
+        <attvalues>
+          <attvalue for="0" value="Costanera Puerto Varas" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="5780" />
+        </attvalues>
+      </node>
+      <node id="82" label="82">
+        <attvalues>
+          <attvalue for="0" value="Teatro del Lago" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="13211" />
+        </attvalues>
+      </node>
+      <node id="275" label="275">
+        <attvalues>
+          <attvalue for="0" value="Playa Los Cisnes" />
+          <attvalue for="1" value="island" />
+          <attvalue for="2" value="4596" />
+        </attvalues>
+      </node>
+      <node id="454" label="454">
+        <attvalues>
+          <attvalue for="0" value="Volcán Osorno Centro de Ski y Montaña" />
+          <attvalue for="1" value="volcano" />
+          <attvalue for="2" value="7542" />
+        </attvalues>
+      </node>
+      <node id="506" label="506">
+        <attvalues>
+          <attvalue for="0" value="Monte Calvario" />
+          <attvalue for="1" value="volcano" />
+          <attvalue for="2" value="712" />
+        </attvalues>
+      </node>
+      <node id="595" label="595">
+        <attvalues>
+          <attvalue for="0" value="Museo Pablo Fierro" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="2434" />
+        </attvalues>
+      </node>
+      <node id="68" label="68">
+        <attvalues>
+          <attvalue for="0" value="Lago Rupanco" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="487" />
+        </attvalues>
+      </node>
+      <node id="88" label="88">
+        <attvalues>
+          <attvalue for="0" value="Hotel Lodge Las Cascadas" />
+          <attvalue for="1" value="hotel" />
+          <attvalue for="2" value="268" />
+        </attvalues>
+      </node>
+      <node id="120" label="120">
+        <attvalues>
+          <attvalue for="0" value="Lago Todos los Santos" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="426" />
+        </attvalues>
+      </node>
+      <node id="138" label="138">
+        <attvalues>
+          <attvalue for="0" value="Lago Puyehue" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="425" />
+        </attvalues>
+      </node>
+      <node id="209" label="209">
+        <attvalues>
+          <attvalue for="0" value="Puyehue National Park" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="4798" />
+        </attvalues>
+      </node>
+      <node id="293" label="293">
+        <attvalues>
+          <attvalue for="0" value="Casino Dreams Puerto Varas" />
+          <attvalue for="1" value="casino" />
+          <attvalue for="2" value="3568" />
+        </attvalues>
+      </node>
+      <node id="427" label="427">
+        <attvalues>
+          <attvalue for="0" value="Volcán Osorno" />
+          <attvalue for="1" value="volcano" />
+          <attvalue for="2" value="817" />
+        </attvalues>
+      </node>
+      <node id="438" label="438">
+        <attvalues>
+          <attvalue for="0" value="Salto Waterfalls" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="1834" />
+        </attvalues>
+      </node>
+      <node id="583" label="583">
+        <attvalues>
+          <attvalue for="0" value="Río Rahue" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="594" />
+        </attvalues>
+      </node>
+      <node id="800" label="800">
+        <attvalues>
+          <attvalue for="0" value="Espantapájaros" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="2438" />
+        </attvalues>
+      </node>
+      <node id="49" label="49">
+        <attvalues>
+          <attvalue for="0" value="Parque Pangal" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="752" />
+        </attvalues>
+      </node>
+      <node id="90" label="90">
+        <attvalues>
+          <attvalue for="0" value="Plaza de Armas de Puerto Montt" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="8733" />
+        </attvalues>
+      </node>
+      <node id="67" label="67">
+        <attvalues>
+          <attvalue for="0" value="Mercado Municipal De Castro" />
+          <attvalue for="1" value="market" />
+          <attvalue for="2" value="1715" />
+        </attvalues>
+      </node>
+      <node id="493" label="493">
+        <attvalues>
+          <attvalue for="0" value="Feria Artesanal y Mercado Campesino Lillo" />
+          <attvalue for="1" value="market" />
+          <attvalue for="2" value="4048" />
+        </attvalues>
+      </node>
+      <node id="764" label="764">
+        <attvalues>
+          <attvalue for="0" value="Feria Campesina Yumbel" />
+          <attvalue for="1" value="nature reserve" />
+          <attvalue for="2" value="1817" />
+        </attvalues>
+      </node>
+      <node id="72" label="72">
+        <attvalues>
+          <attvalue for="0" value="Cascadas de Tocoihue" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="5272" />
+        </attvalues>
+      </node>
+      <node id="177" label="177">
+        <attvalues>
+          <attvalue for="0" value="Muelle De Las Almas" />
+          <attvalue for="1" value="church" />
+          <attvalue for="2" value="2986" />
+        </attvalues>
+      </node>
+      <node id="201" label="201">
+        <attvalues>
+          <attvalue for="0" value="Feria Artesanal de Dalcahue" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="4942" />
+        </attvalues>
+      </node>
+      <node id="237" label="237">
+        <attvalues>
+          <attvalue for="0" value="Church of Colo" />
+          <attvalue for="1" value="catholic church" />
+          <attvalue for="2" value="408" />
+        </attvalues>
+      </node>
+      <node id="560" label="560">
+        <attvalues>
+          <attvalue for="0" value="Humedal de Aucar" />
+          <attvalue for="1" value="nature reserve" />
+          <attvalue for="2" value="702" />
+        </attvalues>
+      </node>
+      <node id="635" label="635">
+        <attvalues>
+          <attvalue for="0" value="Iglesia de Tenaún" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="1962" />
+        </attvalues>
+      </node>
+      <node id="666" label="666">
+        <attvalues>
+          <attvalue for="0" value="Isla de las Almas Navegantes" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="2993" />
+        </attvalues>
+      </node>
+      <node id="97" label="97">
+        <attvalues>
+          <attvalue for="0" value="Cafeteria Brujula del Cuerpo" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="2380" />
+        </attvalues>
+      </node>
+      <node id="263" label="263">
+        <attvalues>
+          <attvalue for="0" value="Playa de Frutillar Bajo" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="900" />
+        </attvalues>
+      </node>
+      <node id="381" label="381">
+        <attvalues>
+          <attvalue for="0" value="Salzburg Hotel &amp; SPA" />
+          <attvalue for="1" value="hotel" />
+          <attvalue for="2" value="657" />
+        </attvalues>
+      </node>
+      <node id="404" label="404">
+        <attvalues>
+          <attvalue for="0" value="Fundo Playa Venado" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="1313" />
+        </attvalues>
+      </node>
+      <node id="416" label="416">
+        <attvalues>
+          <attvalue for="0" value="Terraza Del Volcán" />
+          <attvalue for="1" value="volcano" />
+          <attvalue for="2" value="437" />
+        </attvalues>
+      </node>
+      <node id="572" label="572">
+        <attvalues>
+          <attvalue for="0" value="Teatro Diego Rivera" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="1114" />
+        </attvalues>
+      </node>
+      <node id="573" label="573">
+        <attvalues>
+          <attvalue for="0" value="Centro de Arte Molino Machmar" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="581" />
+        </attvalues>
+      </node>
+      <node id="578" label="578">
+        <attvalues>
+          <attvalue for="0" value="Colonos del Lago" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="1021" />
+        </attvalues>
+      </node>
+      <node id="221" label="221">
+        <attvalues>
+          <attvalue for="0" value="Valle Volcanes" />
+          <attvalue for="1" value="volcano" />
+          <attvalue for="2" value="711" />
+        </attvalues>
+      </node>
+      <node id="244" label="244">
+        <attvalues>
+          <attvalue for="0" value="Mirador Isla Tenglo" />
+          <attvalue for="1" value="island" />
+          <attvalue for="2" value="482" />
+        </attvalues>
+      </node>
+      <node id="328" label="328">
+        <attvalues>
+          <attvalue for="0" value="Shawarma Valle Volcanes" />
+          <attvalue for="1" value="volcano" />
+          <attvalue for="2" value="270" />
+        </attvalues>
+      </node>
+      <node id="382" label="382">
+        <attvalues>
+          <attvalue for="0" value="Hotel Don Luis" />
+          <attvalue for="1" value="hotel" />
+          <attvalue for="2" value="1515" />
+        </attvalues>
+      </node>
+      <node id="463" label="463">
+        <attvalues>
+          <attvalue for="0" value="Luis Ebel Natural Park" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="323" />
+        </attvalues>
+      </node>
+      <node id="861" label="861">
+        <attvalues>
+          <attvalue for="0" value="Selim Tu Comida Arabe" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="307" />
+        </attvalues>
+      </node>
+      <node id="100" label="100">
+        <attvalues>
+          <attvalue for="0" value="Casino Marina del Sol Osorno" />
+          <attvalue for="1" value="casino" />
+          <attvalue for="2" value="1664" />
+        </attvalues>
+      </node>
+      <node id="553" label="553">
+        <attvalues>
+          <attvalue for="0" value="Cine Lido Osorno" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="1158" />
+        </attvalues>
+      </node>
+      <node id="113" label="113">
+        <attvalues>
+          <attvalue for="0" value="Costanera Lago Puyehue" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="879" />
+        </attvalues>
+      </node>
+      <node id="124" label="124">
+        <attvalues>
+          <attvalue for="0" value="Sanguche patito" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="975" />
+        </attvalues>
+      </node>
+      <node id="136" label="136">
+        <attvalues>
+          <attvalue for="0" value="Regional Museum of Ancud" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="727" />
+        </attvalues>
+      </node>
+      <node id="474" label="474">
+        <attvalues>
+          <attvalue for="0" value="Fuerte San Antonio" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="6253" />
+        </attvalues>
+      </node>
+      <node id="462" label="462">
+        <attvalues>
+          <attvalue for="0" value="Almud bar" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="601" />
+        </attvalues>
+      </node>
+      <node id="717" label="717">
+        <attvalues>
+          <attvalue for="0" value="Magnolia Cafe Y Pasteleria" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="929" />
+        </attvalues>
+      </node>
+      <node id="722" label="722">
+        <attvalues>
+          <attvalue for="0" value="Ecological Park and Chiloe Mitológico" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="1330" />
+        </attvalues>
+      </node>
+      <node id="183" label="183">
+        <attvalues>
+          <attvalue for="0" value="Punta Pirulil" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="442" />
+        </attvalues>
+      </node>
+      <node id="185" label="185">
+        <attvalues>
+          <attvalue for="0" value="Casino ULagos" />
+          <attvalue for="1" value="casino" />
+          <attvalue for="2" value="248" />
+        </attvalues>
+      </node>
+      <node id="700" label="700">
+        <attvalues>
+          <attvalue for="0" value="Costanera" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="1228" />
+        </attvalues>
+      </node>
+      <node id="213" label="213">
+        <attvalues>
+          <attvalue for="0" value="Turismo Martin El Pescador" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="690" />
+        </attvalues>
+      </node>
+      <node id="337" label="337">
+        <attvalues>
+          <attvalue for="0" value="Mercado Ancud" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="1116" />
+        </attvalues>
+      </node>
+      <node id="403" label="403">
+        <attvalues>
+          <attvalue for="0" value="Puente Chauracahuin" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="94" />
+        </attvalues>
+      </node>
+      <node id="428" label="428">
+        <attvalues>
+          <attvalue for="0" value="Catedral San Mateo Apóstol - Osorno" />
+          <attvalue for="1" value="notable street" />
+          <attvalue for="2" value="393" />
+        </attvalues>
+      </node>
+      <node id="615" label="615">
+        <attvalues>
+          <attvalue for="0" value="Plaza De Armas" />
+          <attvalue for="1" value="restaurant" />
+          <attvalue for="2" value="3687" />
+        </attvalues>
+      </node>
+      <node id="809" label="809">
+        <attvalues>
+          <attvalue for="0" value="Playa Arena Gruesa" />
+          <attvalue for="1" value="national park" />
+          <attvalue for="2" value="1031" />
+        </attvalues>
+      </node>
+      <node id="489" label="489">
+        <attvalues>
+          <attvalue for="0" value="Fuerte Reina Luisa" />
+          <attvalue for="1" value="island" />
+          <attvalue for="2" value="542" />
+        </attvalues>
+      </node>
+      <node id="659" label="659">
+        <attvalues>
+          <attvalue for="0" value="Iglesia de San Francisco, Castro" />
+          <attvalue for="1" value="church" />
+          <attvalue for="2" value="6158" />
+        </attvalues>
+      </node>
+      <node id="503" label="503">
+        <attvalues>
+          <attvalue for="0" value="Iglesia de Dalcahue" />
+          <attvalue for="1" value="church" />
+          <attvalue for="2" value="1037" />
+        </attvalues>
+      </node>
+      <node id="566" label="566">
+        <attvalues>
+          <attvalue for="0" value="Estero Tralmahue" />
+          <attvalue for="1" value="lake" />
+          <attvalue for="2" value="47" />
+        </attvalues>
+      </node>
+      <node id="579" label="579">
+        <attvalues>
+          <attvalue for="0" value="Centro Cultural Osorno" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="201" />
+        </attvalues>
+      </node>
+      <node id="808" label="808">
+        <attvalues>
+          <attvalue for="0" value="Bellavista Park" />
+          <attvalue for="1" value="park" />
+          <attvalue for="2" value="559" />
+        </attvalues>
+      </node>
+      <node id="738" label="738">
+        <attvalues>
+          <attvalue for="0" value="Mirador Gamboa" />
+          <attvalue for="1" value="tourist attraction" />
+          <attvalue for="2" value="3884" />
+        </attvalues>
+      </node>
+      <node id="810" label="810">
+        <attvalues>
+          <attvalue for="0" value="Centro Cultural Sofía Hott" />
+          <attvalue for="1" value="performing arts theater" />
+          <attvalue for="2" value="149" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="4" target="115" id="0" />
+      <edge source="4" target="172" id="1" />
+      <edge source="4" target="362" id="2" />
+      <edge source="172" target="44" id="3" />
+      <edge source="172" target="48" id="4" />
+      <edge source="172" target="67" id="5" />
+      <edge source="172" target="82" id="6" />
+      <edge source="172" target="90" id="7" />
+      <edge source="172" target="97" id="8" />
+      <edge source="172" target="120" id="9" />
+      <edge source="172" target="124" id="10" />
+      <edge source="172" target="209" id="11" />
+      <edge source="172" target="275" id="12" />
+      <edge source="172" target="293" id="13" />
+      <edge source="172" target="362" id="14" />
+      <edge source="172" target="404" id="15" />
+      <edge source="172" target="427" id="16" />
+      <edge source="172" target="438" id="17" />
+      <edge source="172" target="454" id="18" />
+      <edge source="172" target="462" id="19" />
+      <edge source="172" target="474" id="20" />
+      <edge source="172" target="490" id="21" />
+      <edge source="172" target="578" id="22" />
+      <edge source="172" target="595" id="23" />
+      <edge source="172" target="717" id="24" />
+      <edge source="172" target="722" id="25" />
+      <edge source="172" target="764" id="26" />
+      <edge source="172" target="800" id="27" />
+      <edge source="362" target="44" id="28" />
+      <edge source="362" target="48" id="29" />
+      <edge source="362" target="82" id="30" />
+      <edge source="362" target="263" id="31" />
+      <edge source="362" target="275" id="32" />
+      <edge source="362" target="404" id="33" />
+      <edge source="362" target="438" id="34" />
+      <edge source="362" target="454" id="35" />
+      <edge source="362" target="578" id="36" />
+      <edge source="362" target="595" id="37" />
+      <edge source="362" target="764" id="38" />
+      <edge source="27" target="802" id="39" />
+      <edge source="802" target="48" id="40" />
+      <edge source="802" target="82" id="41" />
+      <edge source="802" target="90" id="42" />
+      <edge source="802" target="100" id="43" />
+      <edge source="802" target="113" id="44" />
+      <edge source="802" target="138" id="45" />
+      <edge source="802" target="185" id="46" />
+      <edge source="802" target="209" id="47" />
+      <edge source="802" target="403" id="48" />
+      <edge source="802" target="428" id="49" />
+      <edge source="802" target="489" id="50" />
+      <edge source="802" target="553" id="51" />
+      <edge source="802" target="566" id="52" />
+      <edge source="802" target="579" id="53" />
+      <edge source="802" target="583" id="54" />
+      <edge source="802" target="810" id="55" />
+      <edge source="32" target="48" id="56" />
+      <edge source="32" target="490" id="57" />
+      <edge source="48" target="68" id="58" />
+      <edge source="48" target="82" id="59" />
+      <edge source="48" target="88" id="60" />
+      <edge source="48" target="120" id="61" />
+      <edge source="48" target="138" id="62" />
+      <edge source="48" target="209" id="63" />
+      <edge source="48" target="275" id="64" />
+      <edge source="48" target="293" id="65" />
+      <edge source="48" target="427" id="66" />
+      <edge source="48" target="438" id="67" />
+      <edge source="48" target="454" id="68" />
+      <edge source="48" target="490" id="69" />
+      <edge source="48" target="506" id="70" />
+      <edge source="48" target="583" id="71" />
+      <edge source="48" target="800" id="72" />
+      <edge source="490" target="82" id="73" />
+      <edge source="490" target="90" id="74" />
+      <edge source="44" target="82" id="75" />
+      <edge source="44" target="275" id="76" />
+      <edge source="44" target="454" id="77" />
+      <edge source="44" target="506" id="78" />
+      <edge source="44" target="595" id="79" />
+      <edge source="82" target="67" id="80" />
+      <edge source="82" target="90" id="81" />
+      <edge source="82" target="97" id="82" />
+      <edge source="82" target="209" id="83" />
+      <edge source="82" target="263" id="84" />
+      <edge source="82" target="275" id="85" />
+      <edge source="82" target="293" id="86" />
+      <edge source="82" target="381" id="87" />
+      <edge source="82" target="404" id="88" />
+      <edge source="82" target="416" id="89" />
+      <edge source="82" target="454" id="90" />
+      <edge source="82" target="572" id="91" />
+      <edge source="82" target="573" id="92" />
+      <edge source="82" target="578" id="93" />
+      <edge source="82" target="595" id="94" />
+      <edge source="82" target="764" id="95" />
+      <edge source="82" target="800" id="96" />
+      <edge source="275" target="90" id="97" />
+      <edge source="275" target="454" id="98" />
+      <edge source="454" target="438" id="99" />
+      <edge source="138" target="209" id="100" />
+      <edge source="293" target="90" id="101" />
+      <edge source="49" target="90" id="102" />
+      <edge source="90" target="221" id="103" />
+      <edge source="90" target="244" id="104" />
+      <edge source="90" target="328" id="105" />
+      <edge source="90" target="382" id="106" />
+      <edge source="90" target="463" id="107" />
+      <edge source="90" target="572" id="108" />
+      <edge source="90" target="861" id="109" />
+      <edge source="67" target="493" id="110" />
+      <edge source="67" target="764" id="111" />
+      <edge source="493" target="213" id="112" />
+      <edge source="493" target="659" id="113" />
+      <edge source="493" target="764" id="114" />
+      <edge source="72" target="177" id="115" />
+      <edge source="72" target="201" id="116" />
+      <edge source="72" target="237" id="117" />
+      <edge source="72" target="560" id="118" />
+      <edge source="72" target="635" id="119" />
+      <edge source="72" target="666" id="120" />
+      <edge source="177" target="183" id="121" />
+      <edge source="201" target="474" id="122" />
+      <edge source="201" target="635" id="123" />
+      <edge source="201" target="700" id="124" />
+      <edge source="237" target="635" id="125" />
+      <edge source="560" target="666" id="126" />
+      <edge source="635" target="666" id="127" />
+      <edge source="100" target="553" id="128" />
+      <edge source="136" target="474" id="129" />
+      <edge source="474" target="337" id="130" />
+      <edge source="474" target="615" id="131" />
+      <edge source="474" target="722" id="132" />
+      <edge source="474" target="809" id="133" />
+      <edge source="615" target="808" id="134" />
+      <edge source="615" target="809" id="135" />
+      <edge source="659" target="503" id="136" />
+      <edge source="659" target="738" id="137" />
+    </edges>
+  </graph>
+</gexf>
